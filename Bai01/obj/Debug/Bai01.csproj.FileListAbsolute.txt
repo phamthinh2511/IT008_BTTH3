@@ -1,0 +1,10 @@
+C:\Code\LAPTRINHTRUCQUAN\BTTH3\Bai01\bin\Debug\Bai01.exe.config
+C:\Code\LAPTRINHTRUCQUAN\BTTH3\Bai01\bin\Debug\Bai01.exe
+C:\Code\LAPTRINHTRUCQUAN\BTTH3\Bai01\bin\Debug\Bai01.pdb
+C:\Code\LAPTRINHTRUCQUAN\BTTH3\Bai01\obj\Debug\Bai01.csproj.AssemblyReference.cache
+C:\Code\LAPTRINHTRUCQUAN\BTTH3\Bai01\obj\Debug\Bai01.Form1.resources
+C:\Code\LAPTRINHTRUCQUAN\BTTH3\Bai01\obj\Debug\Bai01.Properties.Resources.resources
+C:\Code\LAPTRINHTRUCQUAN\BTTH3\Bai01\obj\Debug\Bai01.csproj.GenerateResource.cache
+C:\Code\LAPTRINHTRUCQUAN\BTTH3\Bai01\obj\Debug\Bai01.csproj.CoreCompileInputs.cache
+C:\Code\LAPTRINHTRUCQUAN\BTTH3\Bai01\obj\Debug\Bai01.exe
+C:\Code\LAPTRINHTRUCQUAN\BTTH3\Bai01\obj\Debug\Bai01.pdb
