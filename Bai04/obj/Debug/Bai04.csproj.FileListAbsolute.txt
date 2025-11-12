@@ -1,0 +1,11 @@
+C:\Code\LAPTRINHTRUCQUAN\BTTH3\Bai04\bin\Debug\Bai04.exe.config
+C:\Code\LAPTRINHTRUCQUAN\BTTH3\Bai04\bin\Debug\Bai04.exe
+C:\Code\LAPTRINHTRUCQUAN\BTTH3\Bai04\bin\Debug\Bai04.pdb
+C:\Code\LAPTRINHTRUCQUAN\BTTH3\Bai04\obj\Debug\Bai04.csproj.AssemblyReference.cache
+C:\Code\LAPTRINHTRUCQUAN\BTTH3\Bai04\obj\Debug\Bai04.ColorDialog.resources
+C:\Code\LAPTRINHTRUCQUAN\BTTH3\Bai04\obj\Debug\Bai04.Form1.resources
+C:\Code\LAPTRINHTRUCQUAN\BTTH3\Bai04\obj\Debug\Bai04.Properties.Resources.resources
+C:\Code\LAPTRINHTRUCQUAN\BTTH3\Bai04\obj\Debug\Bai04.csproj.GenerateResource.cache
+C:\Code\LAPTRINHTRUCQUAN\BTTH3\Bai04\obj\Debug\Bai04.csproj.CoreCompileInputs.cache
+C:\Code\LAPTRINHTRUCQUAN\BTTH3\Bai04\obj\Debug\Bai04.exe
+C:\Code\LAPTRINHTRUCQUAN\BTTH3\Bai04\obj\Debug\Bai04.pdb
